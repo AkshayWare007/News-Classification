@@ -7,12 +7,12 @@ This app classifies news into different categories.
 Use [pip](https://pip.pypa.io/en/stable/) to install required packages.
 
 ```bash
-pip install requirements.txt
+pip install --file requirements.txt
 ```
 If you use [conda](https://docs.conda.io/en/latest/miniconda.html) package manager.
 
 ```bash
-conda install requirements.txt
+conda install --file requirements.txt
 ```
 
 ## Usage
